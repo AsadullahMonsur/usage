@@ -6,9 +6,10 @@ ZYAS
 
 our git project's web link: https://github.com/AsadullahMonsur/usage
 
-We will use React.js [with html ,css] for fronted [client UI]
-            Spring Boot [Java] for backend [server processing]
-            MongoDB/ Firebase/ MySQL for datbase choice
+We will use
+React.js [with html ,css] for fronted [client UI].
+Spring Boot [Java] for backend [server processing].
+MongoDB/ Firebase/ MySQL for datbase choice.
             
 Necessary website/youtube links for SpringBoot:
 1. https://start.spring.io/
